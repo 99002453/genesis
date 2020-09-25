@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/training/Desktop/shapes/circle.h
+shape.h
+/home/training/Desktop/shapes/shape.h
+
+/home/training/Desktop/shapes/polygon.h
+shape.h
+/home/training/Desktop/shapes/shape.h
+
+/home/training/Desktop/shapes/rectangle.h
+polygon.h
+/home/training/Desktop/shapes/polygon.h
+
+/home/training/Desktop/shapes/shape.h
+
+/home/training/Desktop/shapes/shapes_test.cc
+shape.h
+/home/training/Desktop/shapes/shape.h
+polygon.h
+/home/training/Desktop/shapes/polygon.h
+circle.h
+/home/training/Desktop/shapes/circle.h
+triangle.h
+/home/training/Desktop/shapes/triangle.h
+rectangle.h
+/home/training/Desktop/shapes/rectangle.h
+gtest/gtest.h
+/home/training/Desktop/shapes/gtest/gtest.h
+
+/home/training/Desktop/shapes/triangle.h
+polygon.h
+/home/training/Desktop/shapes/polygon.h
+

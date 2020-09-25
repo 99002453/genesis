@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/training/Desktop/Set 3/Employee/Employee.h
+
+/home/training/Desktop/Set 3/Employee/EmployeeTest.cpp
+gtest/gtest.h
+-
+Employee.h
+/home/training/Desktop/Set 3/Employee/Employee.h
+Manager.h
+/home/training/Desktop/Set 3/Employee/Manager.h
+Trainee.h
+/home/training/Desktop/Set 3/Employee/Trainee.h
+Employee.h
+/home/training/Desktop/Set 3/Employee/Employee.h
+Engineer.h
+/home/training/Desktop/Set 3/Employee/Engineer.h
+
+/home/training/Desktop/Set 3/Employee/Engineer.h
+Employee.h
+/home/training/Desktop/Set 3/Employee/Employee.h
+
+/home/training/Desktop/Set 3/Employee/Manager.h
+Employee.h
+/home/training/Desktop/Set 3/Employee/Employee.h
+
+/home/training/Desktop/Set 3/Employee/Trainee.h
+Employee.h
+/home/training/Desktop/Set 3/Employee/Employee.h
+

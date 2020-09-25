@@ -1,0 +1,3 @@
+/home/user/Downloads/Set-1/Color/CMakeFiles/edit_cache.dir
+/home/user/Downloads/Set-1/Color/CMakeFiles/rebuild_cache.dir
+/home/user/Downloads/Set-1/Color/CMakeFiles/execute.dir

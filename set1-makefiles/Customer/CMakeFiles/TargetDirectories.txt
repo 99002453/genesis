@@ -1,0 +1,3 @@
+/home/user/Downloads/Set-1/Customer/CMakeFiles/edit_cache.dir
+/home/user/Downloads/Set-1/Customer/CMakeFiles/rebuild_cache.dir
+/home/user/Downloads/Set-1/Customer/CMakeFiles/execute.dir

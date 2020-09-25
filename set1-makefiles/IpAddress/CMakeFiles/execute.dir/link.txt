@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/execute.dir/test.cpp.o  -o execute  -Wl,-Bstatic -lgtest -Wl,-Bdynamic -lpthread 

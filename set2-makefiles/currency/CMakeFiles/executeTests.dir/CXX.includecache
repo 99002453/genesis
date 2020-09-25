@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/training/Downloads/set-2/currency/pch.cpp
+pch.h
+/home/training/Downloads/set-2/currency/pch.h
+
+/home/training/Downloads/set-2/currency/pch.h
+gtest/gtest.h
+/home/training/Downloads/set-2/currency/gtest/gtest.h
+
+/home/training/Downloads/set-2/currency/test.cpp
+pch.cpp
+/home/training/Downloads/set-2/currency/pch.cpp
+

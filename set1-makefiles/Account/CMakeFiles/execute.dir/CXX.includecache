@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/Downloads/Set-1/Account/pch.cpp
+pch.h
+/home/user/Downloads/Set-1/Account/pch.h
+iostream
+-
+
+/home/user/Downloads/Set-1/Account/pch.h
+gtest/gtest.h
+/home/user/Downloads/Set-1/Account/gtest/gtest.h
+string
+-
+
+/home/user/Downloads/Set-1/Account/test.cpp
+pch.cpp
+/home/user/Downloads/Set-1/Account/pch.cpp
+gtest/gtest.h
+/home/user/Downloads/Set-1/Account/gtest/gtest.h
+
